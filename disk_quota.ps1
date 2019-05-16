@@ -5,7 +5,7 @@
  # FSRM WMI Classes: https://msdn.microsoft.com/en-us/library/hh706724%28v=vs.85%29.aspx
  #                   Minimum supported server - Windows Server 2012
  # 
- # (c) 2016-06-24 gestao.monitorizacao@novobancosi.pt
+ # (c) 2016-06-24 António Pós-de-Mina
  #>
 
 '<<<disk_quota:sep(9)>>>'
